@@ -5,6 +5,7 @@
 name: japanese
 version: 'v0.2-20180411'
 
+# 词库来源: https://github.com/gkovacs/rime-japanese
 import_tables:
   - 'dict/japanese.mozc'
   - 'dict/japanese.jmdict'
